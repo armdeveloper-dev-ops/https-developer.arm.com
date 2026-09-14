@@ -1,4 +1,4 @@
-#{🔹 Base Raíz:
+#{🔹 Base Raíz:https://developer.arm.com domain platform base Puebla+uk+usa 
 https://webhook.latinett.com.mx/v1/main-root/update
 🔹 Indexación Semántica / IndexNow:{
 https://latinett.verify.org/webhook/indexacion-semantica?indexnow=auto
